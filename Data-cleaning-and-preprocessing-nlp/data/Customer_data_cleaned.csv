@@ -1,0 +1,13 @@
+,Customer_ID,Age,Last_Login,Purchase_Amount,Gender_Male,Country_India,Country_Nepal,Country_Spain,Country_Uk,Country_Usa,Status_Inactive
+0,101,25.0,2024-01-10,250.5,True,False,False,False,False,True,False
+1,102,38.5,2024-01-10,300.0,False,False,False,False,True,False,False
+2,103,29.0,2024-01-08,450.75,True,True,False,False,False,False,True
+3,104,45.0,2024-01-10,1200.0,False,False,False,False,False,True,False
+4,105,38.5,2024-01-07,75.0,True,False,False,False,False,True,False
+5,106,34.0,2024-01-05,1218.2024999999999,False,False,False,True,False,False,False
+6,107,28.0,2024-01-04,560.3,True,False,False,False,False,False,True
+7,108,25.0,2024-01-10,250.5,True,False,False,False,False,True,False
+8,109,38.5,2024-01-02,980.99,False,True,False,False,False,False,False
+9,110,31.0,2024-01-01,199.99,True,False,True,False,False,False,True
+11,112,27.0,2023-12-29,0.0,False,False,False,False,True,False,False
+12,113,33.0,2023-12-28,350.4,True,True,False,False,False,False,False

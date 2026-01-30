@@ -1,0 +1,14 @@
+Customer_ID,Name,Age,Gender,Email,Country,Signup_Date,Last_Login,Purchase_Amount,Status
+101,John Doe,25,Male,john.doe@gmail.com,USA,2022-01-15,2024-01-10,250.50,Active
+102,Jane Smith, ,Female,jane.smith@gmail,UK,15-02-2022,2024/01/09,300,Active
+103,Rahul Kumar,29,Male,rahul.kumar@yahoo.com,India,2022/03/10,2024-01-08,450.75,Inactive
+104,Alice Brown,45,Female,alice.brown@gmail.com,USA,2021-12-01,,1200.00,Active
+105,Bob Lee,-5,Male,bob.lee@gmail.com,USA,2022-05-20,2024-01-07,75,Active
+106,Maria Garcia,34,Female,maria.garcia@hotmail.com,Spain,2022-06-18,2024-01-05,NaN,Active
+107,Chen Wei,28,M,chenwei@mail.com,China,2022-07-01,2024-01-04,560.30,Inactive
+108,John Doe,25,Male,john.doe@gmail.com,USA,2022-01-15,2024-01-10,250.50,Active
+109,Anita Sharma,150,Female,anita.sharma@gmail.com,India,2022-08-12,2024-01-02,980.99,Active
+110,,31,Male,noemail@,Nepal,2022-09-10,2024-01-01,199.99,Inactive
+111,Sam Wilson,40,Male,sam.wilson@gmail.com,USA,2022-10-05,2023-12-30,10000,Active
+112,Linda Green,27,Female,linda.green@gmail.com,UK,2022-11-22,2023-12-29,0,Active
+113,Ravi Patel,33,Male,ravi.patel@gmail.com,India,invalid_date,2023-12-28,350.40,Active
