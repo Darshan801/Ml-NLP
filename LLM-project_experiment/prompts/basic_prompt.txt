@@ -1,0 +1,3 @@
+Summarize the text.
+Classify the sentiment.
+Rewrite the text.
