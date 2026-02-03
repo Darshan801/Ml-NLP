@@ -1,0 +1,7 @@
+corpus = [
+    "Machine learning is a field of artificial intelligence that focuses on building systems that learn from data.",
+    "Data analysis involves cleaning, transforming, and visualizing data to gain insights.",
+    "Web development includes frontend design and backend programming.",
+    "Artificial intelligence is used in healthcare, finance, and robotics.",
+    "UI and UX design improve user satisfaction and usability."
+]
