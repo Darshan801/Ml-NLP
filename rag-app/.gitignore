@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Chroma Vector Database
+chroma_db/
+*.sqlite3
+
+# Logs & Temporary Files
+*.log
+*.tmp
+
+
+# Model & Cache Files
+.cache/
+huggingface/
+models/
+
+# Ollama
+.ollama/
