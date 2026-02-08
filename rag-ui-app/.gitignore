@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.chroma_db/
+.ollama/
+
+# Jupyter
+.ipynb_checkpoints/

@@ -1,0 +1,22 @@
+# Frontend / UI
+streamlit>=1.30.0
+
+# Backend 
+langchain
+python
+langchain_community
+langchain_huggingface
+langchain_chroma
+langchain_text_splitters
+
+#vector DB
+chromaDB
+
+# Embedding
+sentence-tranformers
+
+# LLM Runtime
+ollama
+
+#Document loaders
+pypdf
