@@ -1,0 +1,7 @@
+python
+sklearn
+pandas 
+numpy
+string
+faiss
+SentenceTransformer
